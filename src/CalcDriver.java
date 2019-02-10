@@ -10,6 +10,7 @@ public class CalcDriver {
         Console io = new Console();
         Calculations calculation =  new Calculations();
         float actualResult;
+        String memory = "";
 
         // Elenor's parser
         Parser ps= new Parser();
